@@ -1,0 +1,177 @@
+;rider;PCS;Team;Age;Nationality;Team PCS;flat1-4;flat5-8;flat9-12;hills(flat)1-4;hills(flat)5-8;hills(flat)9-12;hills(uphill)1-4;hills(uphill)5-8;hills(uphill)9-12;mountains(flat)1-4;mountains(flat)5-8;mountains(flat)9-12;mountains(uphill)1-4;mountains(uphill)5-8;mountains(uphill)9-12;gc1-4;gc5-8;gc9-12;wielerpoule
+0;rider/christopher-froome;1394;Team Sky;33;Great Britain;7685;1.0;1.0;2.0;0.0;0.0;0.0;1.0;0.0;1.0;0.0;3.0;1.0;3.0;2.0;1.0;2.0;0.0;1.0;73.0
+1;rider/egan-bernal;1121;Team Sky;21;Colombia;7685;0.0;0.0;0.0;1.0;2.0;2.0;0.0;1.0;1.0;1.0;3.0;1.0;6.0;1.0;0.0;3.0;1.0;0.0;20.0
+2;rider/jonathan-castroviejo;443;Team Sky;31;Spain;7685;6.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;2.0;12.0
+3;rider/michal-kwiatkowski;1467;Team Sky;28;Poland;7685;5.0;2.0;1.0;2.0;2.0;2.0;4.0;0.0;0.0;1.0;1.0;0.0;1.0;0.0;1.0;3.0;0.0;0.0;21.0
+4;rider/gianni-moscon;937;Team Sky;24;Italy;7685;2.0;1.0;0.0;3.0;2.0;1.0;1.0;2.0;0.0;0.0;1.0;0.0;1.0;0.0;2.0;1.0;0.0;1.0;12.0
+5;rider/wout-poels;560;Team Sky;31;Netherlands;7685;1.0;1.0;0.0;0.0;1.0;1.0;2.0;0.0;0.0;0.0;0.0;1.0;2.0;2.0;0.0;2.0;0.0;1.0;12.0
+6;rider/luke-rowe;105;Team Sky;28;Great Britain;7685;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;12.0
+7;rider/geraint-thomas;1658;Team Sky;32;Great Britain;7685;3.0;0.0;0.0;0.0;0.0;0.0;2.0;1.0;0.0;0.0;0.0;0.0;4.0;1.0;0.0;3.0;0.0;0.0;112.0
+8;rider/rigoberto-uran;976;Team EF Education First-Drapac p/b Cannondale;31;Colombia;2845;0.0;0.0;1.0;1.0;4.0;0.0;2.0;3.0;1.0;0.0;2.0;1.0;3.0;4.0;1.0;2.0;2.0;1.0;7.0
+9;rider/simon-clarke;235;Team EF Education First-Drapac p/b Cannondale;32;Australia;2845;0.0;0.0;2.0;0.0;1.0;0.0;0.0;0.0;0.0;1.0;0.0;1.0;0.0;0.0;2.0;0.0;1.0;0.0;7.0
+10;rider/lawson-craddock;145;Team EF Education First-Drapac p/b Cannondale;26;United States;2845;1.0;1.0;2.0;1.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;7.0
+11;rider/daniel-felipe-martinez;459;Team EF Education First-Drapac p/b Cannondale;22;Colombia;2845;0.0;0.0;0.0;0.0;0.0;1.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;3.0;3.0;1.0;3.0;1.0;8.0
+12;rider/taylor-phinney;156;Team EF Education First-Drapac p/b Cannondale;28;United States;2845;0.0;1.0;1.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;14.0
+13;rider/pierre-rolland;257;Team EF Education First-Drapac p/b Cannondale;32;France;2845;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;1.0;0.0;2.0;0.0;1.0;0.0;9.0
+14;rider/thomas-scully;52;Team EF Education First-Drapac p/b Cannondale;28;New Zealand;2845;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;7.0
+15;rider/sep-vanmarcke;565;Team EF Education First-Drapac p/b Cannondale;30;Belgium;2845;0.0;2.0;1.0;2.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;7.0
+16;rider/romain-bardet;1616;AG2R La Mondiale;28;France;5263;0.0;1.0;0.0;2.0;2.0;1.0;3.0;2.0;2.0;1.0;0.0;2.0;3.0;2.0;0.0;1.0;1.0;2.0;39.0
+17;rider/silvan-dillier;455;AG2R La Mondiale;28;Switzerland;5263;1.0;0.0;0.0;0.0;1.0;1.0;0.0;0.0;1.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0
+18;rider/axel-domont;41;AG2R La Mondiale;28;France;5263;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0
+19;rider/mathias-frank;358;AG2R La Mondiale;32;Switzerland;5263;0.0;0.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;2.0;3.0;0.0;1.0;3.0;1.0
+20;rider/tony-gallopin;540;AG2R La Mondiale;30;France;5263;0.0;1.0;0.0;1.0;1.0;0.0;1.0;0.0;1.0;0.0;0.0;1.0;1.0;1.0;2.0;2.0;0.0;1.0;1.0
+21;rider/pierre-latour;826;AG2R La Mondiale;25;France;5263;0.0;1.0;1.0;1.0;2.0;2.0;0.0;0.0;2.0;0.0;1.0;0.0;1.0;3.0;1.0;1.0;2.0;1.0;16.0
+22;rider/oliver-naesen;1016;AG2R La Mondiale;28;Belgium;5263;4.0;2.0;1.0;4.0;2.0;2.0;0.0;0.0;0.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0
+23;rider/alexis-vuillermoz;411;AG2R La Mondiale;30;France;5263;1.0;0.0;1.0;1.0;2.0;0.0;2.0;1.0;1.0;0.0;1.0;2.0;0.0;0.0;1.0;1.0;1.0;2.0;1.0
+24;rider/michael-matthews;1444;Team Sunweb;28;Australia;4808;2.0;2.0;0.0;5.0;2.0;0.0;1.0;1.0;1.0;1.0;1.0;0.0;1.0;0.0;0.0;1.0;0.0;0.0;14.0
+25;rider/tom-dumoulin;1759;Team Sunweb;28;Netherlands;4808;1.0;1.0;1.0;1.0;0.0;0.0;2.0;1.0;1.0;2.0;0.0;0.0;0.0;4.0;1.0;3.0;0.0;1.0;87.0
+26;rider/nikias-arndt;264;Team Sunweb;27;Germany;4808;0.0;2.0;1.0;1.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;18.0
+27;rider/simon-geschke;231;Team Sunweb;32;Germany;4808;0.0;2.0;4.0;1.0;0.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;15.0
+28;rider/chad-haga;178;Team Sunweb;30;United States;4808;0.0;2.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;8.0
+29;rider/soren-kragh-andersen;633;Team Sunweb;24;Denmark;4808;3.0;3.0;2.0;1.0;0.0;0.0;0.0;2.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;1.0;2.0;1.0;21.0
+30;rider/laurens-ten-dam;72;Team Sunweb;38;Netherlands;4808;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;8.0
+31;rider/edward-theuns;227;Team Sunweb;27;Belgium;4808;0.0;2.0;2.0;1.0;2.0;1.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;2.0;8.0
+32;rider/warren-barguil;424;Team Fortuneo - Samsic;27;France;954;0.0;0.0;0.0;0.0;2.0;3.0;0.0;0.0;1.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0
+33;rider/maxime-bouet;91;Team Fortuneo - Samsic;32;France;954;0.0;0.0;1.0;0.0;0.0;1.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;1.0;3.0;0.0
+34;rider/elie-gesbert;56;Team Fortuneo - Samsic;23;France;954;0.0;0.0;0.0;0.0;0.0;2.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0
+35;rider/romain-hardy;106;Team Fortuneo - Samsic;30;France;954;0.0;1.0;0.0;0.0;0.0;2.0;0.0;1.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+36;rider/kevin-ledanois;46;Team Fortuneo - Samsic;25;France;954;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0
+37;rider/amael-moinard;53;Team Fortuneo - Samsic;36;France;954;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+38;rider/laurent-pichon;120;Team Fortuneo - Samsic;32;France;954;0.0;0.0;0.0;0.0;1.0;4.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0
+39;rider/florian-vachon;58;Team Fortuneo - Samsic;33;France;954;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0
+40;rider/vincenzo-nibali;770;Bahrain Merida Pro Cycling Team;34;Italy;5581;0.0;0.0;1.0;2.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;2.0;17.0
+41;rider/sonny-colbrelli;1276;Bahrain Merida Pro Cycling Team;28;Italy;5581;1.0;4.0;2.0;6.0;4.0;1.0;3.0;1.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;2.0;0.0;0.0;45.0
+42;rider/heinrich-haussler;107;Bahrain Merida Pro Cycling Team;34;Australia;5581;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;2.0
+43;rider/gorka-izagirre;755;Bahrain Merida Pro Cycling Team;31;Spain;5581;0.0;1.0;0.0;0.0;3.0;2.0;2.0;2.0;0.0;1.0;1.0;2.0;3.0;0.0;0.0;2.0;1.0;0.0;16.0
+44;rider/ion-izagirre;1257;Bahrain Merida Pro Cycling Team;29;Spain;5581;0.0;1.0;1.0;0.0;4.0;0.0;1.0;0.0;2.0;1.0;0.0;6.0;2.0;1.0;2.0;2.0;0.0;3.0;26.0
+45;rider/kristijan-koren;82;Bahrain Merida Pro Cycling Team;32;Slovenia;5581;0.0;2.0;1.0;0.0;1.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;2.0
+46;rider/franco-pellizotti;162;Bahrain Merida Pro Cycling Team;40;Italy;5581;0.0;0.0;1.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;2.0
+47;rider/domenico-pozzovivo;1172;Bahrain Merida Pro Cycling Team;36;Italy;5581;0.0;0.0;1.0;1.0;3.0;1.0;0.0;4.0;4.0;2.0;2.0;1.0;2.0;3.0;4.0;1.0;1.0;2.0;17.0
+48;rider/adam-yates;900;Mitchelton-Scott;26;Great Britain;3067;2.0;0.0;0.0;0.0;0.0;0.0;2.0;0.0;0.0;0.0;1.0;1.0;5.0;2.0;1.0;3.0;1.0;0.0;28.0
+49;rider/jack-bauer;145;Mitchelton-Scott;33;New Zealand;3067;4.0;1.0;0.0;0.0;1.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;9.0
+50;rider/luke-durbridge;148;Mitchelton-Scott;27;Australia;3067;2.0;3.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;9.0
+51;rider/mathew-hayman;117;Mitchelton-Scott;40;Australia;3067;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;9.0
+52;rider/michael-hepburn;134;Mitchelton-Scott;27;Australia;3067;2.0;1.0;0.0;0.0;1.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;12.0
+53;rider/damien-howson;248;Mitchelton-Scott;26;Australia;3067;3.0;0.0;0.0;0.0;1.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;3.0;0.0;0.0;9.0
+54;rider/daryl-impey;945;Mitchelton-Scott;34;South Africa;3067;3.0;1.0;0.0;3.0;1.0;1.0;3.0;1.0;1.0;2.0;0.0;0.0;0.0;0.0;0.0;1.0;1.0;0.0;19.0
+55;rider/mikel-nieve;430;Mitchelton-Scott;34;Spain;3067;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;17.0
+56;rider/nairo-quintana;1292;Movistar Team;28;Colombia;6347;0.0;0.0;0.0;0.0;2.0;1.0;0.0;0.0;0.0;0.0;2.0;1.0;4.0;5.0;2.0;3.0;2.0;0.0;28.0
+57;rider/andrey-amador;258;Movistar Team;32;Costa Rica;6347;1.0;0.0;1.0;1.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;1.0;3.0
+58;rider/daniele-bennati;84;Movistar Team;38;Italy;6347;0.0;0.0;1.0;0.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;3.0
+59;rider/imanol-erviti;80;Movistar Team;35;Spain;6347;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;3.0
+60;rider/mikel-landa;866;Movistar Team;29;Spain;6347;0.0;0.0;1.0;0.0;1.0;0.0;0.0;2.0;0.0;1.0;1.0;0.0;4.0;0.0;1.0;1.0;2.0;0.0;30.0
+61;rider/jose-joaquin-rojas;158;Movistar Team;33;Spain;6347;0.0;0.0;1.0;0.0;3.0;0.0;0.0;1.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;3.0
+62;rider/marc-soler;732;Movistar Team;25;Spain;6347;1.0;2.0;0.0;1.0;1.0;1.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;5.0;0.0;2.0;2.0;0.0;11.0
+63;rider/alejandro-valverde;2877;Movistar Team;38;Spain;6347;0.0;0.0;2.0;5.0;3.0;4.0;5.0;0.0;0.0;4.0;1.0;3.0;6.0;1.0;3.0;4.0;1.0;0.0;29.0
+64;rider/richie-porte;776;BMC Racing Team;33;Australia;4899;0.0;0.0;0.0;1.0;0.0;0.0;1.0;0.0;1.0;0.0;1.0;0.0;2.0;2.0;1.0;3.0;0.0;1.0;17.0
+65;rider/patrick-bevin;427;BMC Racing Team;27;New Zealand;4899;3.0;3.0;1.0;5.0;0.0;2.0;0.0;2.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;1.0;0.0;1.0;15.0
+66;rider/damiano-caruso;737;BMC Racing Team;31;Italy;4899;2.0;0.0;2.0;1.0;1.0;1.0;0.0;0.0;1.0;0.0;1.0;0.0;0.0;2.0;1.0;1.0;2.0;0.0;34.0
+67;rider/simon-gerrans;209;BMC Racing Team;38;Australia;4899;1.0;0.0;1.0;1.0;1.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;15.0
+68;rider/stefan-kung;385;BMC Racing Team;25;Switzerland;4899;5.0;0.0;1.0;1.0;0.0;1.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;16.0
+69;rider/michael-schar;220;BMC Racing Team;32;Switzerland;4899;2.0;0.0;0.0;1.0;0.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;15.0
+70;rider/greg-van-avermaet;1602;BMC Racing Team;33;Belgium;4899;5.0;1.0;1.0;7.0;5.0;0.0;3.0;1.0;0.0;0.0;1.0;0.0;0.0;0.0;1.0;1.0;2.0;0.0;53.0
+71;rider/tejay-van-garderen;543;BMC Racing Team;30;United States;4899;1.0;1.0;0.0;2.0;0.0;0.0;0.0;2.0;0.0;0.0;0.0;1.0;0.0;2.0;0.0;2.0;0.0;0.0;15.0
+72;rider/daniel-martin1;None;None;None;None;0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+73;rider/darwin-atapuma;63;UAE-Team Emirates;30;Colombia;1863;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0
+74;rider/kristijan-durasek;128;UAE-Team Emirates;31;Croatia;1863;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+75;rider/roberto-ferrari;84;UAE-Team Emirates;35;Italy;1863;0.0;0.0;1.0;1.0;1.0;1.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0
+76;rider/alexander-kristoff;1344;UAE-Team Emirates;31;Norway;1863;2.0;7.0;1.0;3.0;2.0;2.0;2.0;0.0;1.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;71.0
+77;rider/marco-marcato;136;UAE-Team Emirates;34;Italy;1863;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0
+78;rider/rory-sutherland;40;UAE-Team Emirates;36;Australia;1863;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+79;rider/oliviero-troia;68;UAE-Team Emirates;24;Italy;1863;0.0;0.0;1.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;2.0;0.0
+80;rider/julian-alaphilippe;2038;Quick-Step Floors;26;France;6993;1.0;2.0;0.0;3.0;1.0;1.0;4.0;1.0;0.0;4.0;2.0;0.0;3.0;0.0;2.0;3.0;1.0;0.0;71.0
+81;rider/tim-declercq;76;Quick-Step Floors;29;Belgium;6993;0.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;10.0
+82;rider/fernando-gaviria;642;Quick-Step Floors;24;Colombia;6993;9.0;1.0;0.0;4.0;0.0;1.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;52.0
+83;rider/philippe-gilbert;959;Quick-Step Floors;36;Belgium;6993;3.0;1.0;0.0;4.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;2.0;0.0;1.0;32.0
+84;rider/bob-jungels;998;Quick-Step Floors;26;Luxembourg;6993;1.0;2.0;0.0;1.0;0.0;2.0;2.0;0.0;1.0;0.0;0.0;1.0;0.0;1.0;0.0;0.0;2.0;0.0;26.0
+85;rider/yves-lampaert;782;Quick-Step Floors;27;Belgium;6993;2.0;0.0;1.0;3.0;1.0;3.0;1.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;1.0;0.0;1.0;33.0
+86;rider/ariel-maximiliano-richeze;347;Quick-Step Floors;35;Argentina;6993;3.0;1.0;1.0;5.0;1.0;0.0;1.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;24.0
+87;rider/niki-terpstra;1151;Quick-Step Floors;34;Netherlands;6993;4.0;2.0;0.0;3.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;11.0
+88;rider/peter-sagan;2416;BORA - hansgrohe;28;Slovakia;4267;9.0;1.0;0.0;9.0;3.0;1.0;4.0;1.0;0.0;2.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;129.0
+89;rider/maciej-bodnar;159;BORA - hansgrohe;33;Poland;4267;3.0;2.0;1.0;1.0;0.0;1.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;6.0
+90;rider/marcus-burghardt;181;BORA - hansgrohe;35;Germany;4267;1.0;2.0;0.0;1.0;0.0;1.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;6.0
+91;rider/rafal-majka;869;BORA - hansgrohe;29;Poland;4267;1.0;1.0;0.0;0.0;3.0;0.0;1.0;0.0;0.0;1.0;0.0;0.0;5.0;1.0;2.0;1.0;3.0;1.0;32.0
+92;rider/gregor-muhlberger;365;BORA - hansgrohe;24;Austria;4267;1.0;1.0;1.0;1.0;0.0;0.0;1.0;0.0;2.0;0.0;0.0;0.0;1.0;2.0;0.0;0.0;2.0;0.0;11.0
+93;rider/daniel-oss;136;BORA - hansgrohe;31;Italy;4267;0.0;1.0;0.0;1.0;0.0;1.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;8.0
+94;rider/pawel-poljanski;78;BORA - hansgrohe;28;Poland;4267;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;6.0
+95;rider/lukas-postlberger;63;BORA - hansgrohe;26;Austria;4267;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;6.0
+96;rider/jakob-fuglsang;1117;Astana Pro Team;33;Denmark;4513;1.0;1.0;1.0;0.0;1.0;1.0;0.0;1.0;2.0;2.0;0.0;0.0;2.0;2.0;1.0;4.0;0.0;1.0;15.0
+97;rider/omar-fraile;362;Astana Pro Team;28;Spain;4513;0.0;0.0;0.0;1.0;2.0;1.0;0.0;0.0;0.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;20.0
+98;rider/dmitriy-gruzdev;26;Astana Pro Team;32;Kazakhstan;4513;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;5.0
+99;rider/jesper-hansen-1;195;Astana Pro Team;28;Denmark;4513;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;5.0
+100;rider/tanel-kangert;289;Astana Pro Team;31;Estonia;4513;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;2.0;5.0
+101;rider/magnus-cort-nielsen;621;Astana Pro Team;25;Denmark;4513;2.0;2.0;0.0;3.0;4.0;1.0;2.0;1.0;0.0;1.0;0.0;0.0;0.0;1.0;0.0;1.0;0.0;0.0;26.0
+102;rider/luis-leon-sanchez;775;Astana Pro Team;35;Spain;4513;1.0;1.0;1.0;2.0;0.0;0.0;0.0;2.0;1.0;4.0;1.0;1.0;3.0;1.0;0.0;2.0;5.0;0.0;0.0
+103;rider/michael-valgren-andersen;1128;Astana Pro Team;26;Denmark;4513;0.0;0.0;0.0;4.0;1.0;0.0;0.0;0.0;1.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;20.0
+104;rider/mark-cavendish;169;Team Dimension Data;33;Great Britain;1813;3.0;0.0;1.0;2.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;8.0
+105;rider/edvald-boasson-hagen;726;Team Dimension Data;31;Norway;1813;2.0;1.0;2.0;1.0;0.0;2.0;2.0;0.0;1.0;1.0;1.0;0.0;0.0;0.0;0.0;2.0;0.0;0.0;22.0
+106;rider/reinardt-janse-van-rensburg;146;Team Dimension Data;29;South Africa;1813;2.0;2.0;0.0;1.0;2.0;1.0;0.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;2.0
+107;rider/serge-pauwels;230;Team Dimension Data;35;Belgium;1813;0.0;0.0;1.0;0.0;1.0;0.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;1.0;0.0;8.0
+108;rider/mark-renshaw;31;Team Dimension Data;36;Australia;1813;1.0;0.0;1.0;0.0;0.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+109;rider/tom-jelte-slagter;311;Team Dimension Data;29;Netherlands;1813;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;1.0;0.0;1.0;0.0;1.0;0.0;0.0;1.0;0.0;0.0;0.0
+110;rider/jay-robert-thomson;65;Team Dimension Data;32;South Africa;1813;1.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+111;rider/julien-vermote;135;Team Dimension Data;29;Belgium;1813;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+112;rider/ilnur-zakarin;562;Team Katusha Alpecin;29;Russia;1906;0.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;4.0;0.0;0.0;0.0;1.0;21.0
+113;rider/ian-boswell;74;Team Katusha Alpecin;27;United States;1906;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;4.0
+114;rider/robert-kiserlovski;75;Team Katusha Alpecin;32;Croatia;1906;0.0;0.0;0.0;0.0;0.0;1.0;0.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;4.0
+115;rider/marcel-kittel;315;Team Katusha Alpecin;30;Germany;1906;4.0;2.0;0.0;2.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;22.0
+116;rider/pavel-kochetkov;109;Team Katusha Alpecin;32;Russia;1906;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;4.0
+117;rider/tony-martin;221;Team Katusha Alpecin;33;Germany;1906;1.0;2.0;0.0;0.0;0.0;0.0;1.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;4.0
+118;rider/nils-politt;413;Team Katusha Alpecin;24;Germany;1906;2.0;1.0;1.0;3.0;0.0;1.0;1.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;5.0
+119;rider/rick-zabel;137;Team Katusha Alpecin;25;Germany;1906;1.0;3.0;2.0;1.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;6.0
+120;rider/arnaud-demare;1406;Groupama - FDJ;27;France;3148;5.0;3.0;1.0;6.0;1.0;2.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;64.0
+121;rider/david-gaudu;292;Groupama - FDJ;22;France;3148;0.0;0.0;1.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;3.0;4.0
+122;rider/jacopo-guarnieri;79;Groupama - FDJ;31;Italy;3148;0.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+123;rider/olivier-le-gac;218;Groupama - FDJ;25;France;3148;1.0;1.0;0.0;0.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0
+124;rider/tobias-ludvigsson;81;Groupama - FDJ;27;Sweden;3148;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+125;rider/rudy-molard;514;Groupama - FDJ;29;France;3148;0.0;0.0;1.0;1.0;0.0;1.0;1.0;1.0;0.0;1.0;2.0;2.0;0.0;1.0;0.0;2.0;0.0;1.0;0.0
+126;rider/ramon-sinkeldam;142;Groupama - FDJ;29;Netherlands;3148;1.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+127;rider/arthur-vichot;416;Groupama - FDJ;30;France;3148;1.0;0.0;0.0;1.0;2.0;1.0;1.0;1.0;0.0;0.0;0.0;0.0;1.0;0.0;1.0;1.0;0.0;1.0;0.0
+128;rider/steven-kruijswijk;1126;Team LottoNL-Jumbo;31;Netherlands;5269;1.0;0.0;0.0;0.0;1.0;4.0;0.0;0.0;1.0;0.0;1.0;0.0;2.0;4.0;3.0;1.0;4.0;0.0;29.0
+129;rider/robert-gesink;435;Team LottoNL-Jumbo;32;Netherlands;5269;0.0;0.0;0.0;0.0;2.0;1.0;0.0;1.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;1.0;7.0
+130;rider/dylan-groenewegen;934;Team LottoNL-Jumbo;25;Netherlands;5269;9.0;2.0;1.0;6.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;46.0
+131;rider/amund-grondahl-jansen;253;Team LottoNL-Jumbo;24;Norway;5269;1.0;1.0;1.0;0.0;0.0;2.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;2.0;0.0;0.0
+132;rider/paul-martens;91;Team LottoNL-Jumbo;35;Germany;5269;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+133;rider/primoz-roglic;1664;Team LottoNL-Jumbo;29;Slovenia;5269;2.0;0.0;1.0;0.0;1.0;0.0;3.0;1.0;0.0;5.0;0.0;0.0;1.0;1.0;1.0;4.0;1.0;0.0;62.0
+134;rider/timo-roosen;446;Team LottoNL-Jumbo;25;Netherlands;5269;2.0;2.0;1.0;0.0;1.0;0.0;2.0;0.0;2.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;3.0;0.0;0.0
+135;rider/antwan-tolhoek;320;Team LottoNL-Jumbo;24;Netherlands;5269;0.0;0.0;1.0;1.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;4.0;0.0;0.0;2.0;0.0
+136;rider/andre-greipel;759;Lotto Soudal;36;Germany;3100;7.0;3.0;3.0;4.0;2.0;1.0;1.0;0.0;2.0;1.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;29.0
+137;rider/tiesj-benoot;940;Lotto Soudal;24;Belgium;3100;1.0;2.0;0.0;1.0;4.0;0.0;4.0;0.0;0.0;1.0;0.0;0.0;1.0;1.0;1.0;1.0;1.0;1.0;0.0
+138;rider/jasper-de-buyst;236;Lotto Soudal;25;Belgium;3100;1.0;1.0;0.0;1.0;2.0;1.0;1.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;4.0
+139;rider/thomas-de-gendt;292;Lotto Soudal;32;Belgium;3100;1.0;0.0;0.0;1.0;0.0;1.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;3.0
+140;rider/jens-keukeleire;313;Lotto Soudal;30;Belgium;3100;3.0;1.0;1.0;1.0;3.0;1.0;0.0;0.0;1.0;0.0;1.0;1.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0
+141;rider/tomasz-marczynski;62;Lotto Soudal;34;Poland;3100;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+142;rider/marcel-sieberg;66;Lotto Soudal;36;Germany;3100;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+143;rider/jelle-vanendert;432;Lotto Soudal;33;Belgium;3100;1.0;0.0;0.0;1.0;0.0;1.0;1.0;0.0;1.0;0.0;1.0;0.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0
+144;rider/lilian-calmejane;555;Direct Energie;26;France;2012;1.0;1.0;2.0;3.0;3.0;1.0;0.0;3.0;1.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;3.0;1.0;19.0
+145;rider/thomas-boudat;373;Direct Energie;24;France;2012;4.0;1.0;1.0;2.0;1.0;2.0;0.0;0.0;0.0;1.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;8.0
+146;rider/sylvain-chavanel;350;Direct Energie;39;France;2012;1.0;0.0;0.0;0.0;2.0;0.0;1.0;1.0;1.0;0.0;1.0;0.0;0.0;0.0;1.0;3.0;0.0;1.0;0.0
+147;rider/jerome-cousin;75;Direct Energie;29;France;2012;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+148;rider/damien-gaudin;222;Direct Energie;32;France;2012;2.0;0.0;3.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0
+149;rider/fabien-grellier;75;Direct Energie;24;France;2012;0.0;0.0;0.0;1.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+150;rider/romain-sicard;49;Direct Energie;30;France;2012;0.0;0.0;1.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+151;rider/rein-taaramae;313;Direct Energie;31;Estonia;2012;0.0;0.0;1.0;3.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;3.0;0.0;2.0;0.0;1.0;10.0
+152;rider/bauke-mollema;1167;Trek - Segafredo;32;Netherlands;4481;0.0;2.0;1.0;2.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;2.0;2.0;1.0;2.0;1.0;1.0;25.0
+153;rider/julien-bernard;99;Trek - Segafredo;26;France;4481;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;1.0;3.0
+154;rider/koen-de-kort;158;Trek - Segafredo;36;Netherlands;4481;0.0;0.0;0.0;1.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+155;rider/john-degenkolb;971;Trek - Segafredo;29;Germany;4481;2.0;2.0;2.0;5.0;1.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;73.0
+156;rider/michael-gogl;206;Trek - Segafredo;25;Austria;4481;0.0;1.0;0.0;0.0;1.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;2.0;0.0;0.0;2.0;0.0;0.0
+157;rider/tsgabu-gebremaryam-grmay;133;Trek - Segafredo;27;Ethiopia;4481;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;1.0;0.0
+158;rider/toms-skujins;514;Trek - Segafredo;27;Latvia;4481;0.0;2.0;1.0;1.0;0.0;2.0;1.0;0.0;1.0;1.0;0.0;2.0;0.0;0.0;0.0;0.0;1.0;0.0;8.0
+159;rider/jasper-stuyven;1233;Trek - Segafredo;26;Belgium;4481;4.0;3.0;5.0;2.0;3.0;4.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;18.0
+160;rider/christophe-laporte;864;Cofidis, Solutions Crédits;26;France;2982;5.0;2.0;0.0;6.0;1.0;0.0;2.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;36.0
+161;rider/dimitri-claeys;317;Cofidis, Solutions Crédits;31;Belgium;2982;0.0;1.0;0.0;0.0;0.0;0.0;1.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;1.0;0.0
+162;rider/nicolas-edet;373;Cofidis, Solutions Crédits;31;France;2982;0.0;0.0;0.0;1.0;2.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;1.0;0.0;1.0;2.0;0.0;0.0;6.0
+163;rider/jesus-herrada-lopez;454;Cofidis, Solutions Crédits;28;Spain;2982;0.0;1.0;1.0;0.0;1.0;1.0;0.0;2.0;1.0;0.0;1.0;1.0;2.0;1.0;0.0;1.0;1.0;0.0;6.0
+164;rider/daniel-navarro;309;Cofidis, Solutions Crédits;35;Spain;2982;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;1.0;0.0;0.0;0.0;2.0;1.0;2.0;1.0;1.0;1.0;0.0
+165;rider/anthony-perez;170;Cofidis, Solutions Crédits;27;France;2982;0.0;0.0;1.0;0.0;1.0;2.0;1.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;1.0;3.0;0.0
+166;rider/julien-simon;374;Cofidis, Solutions Crédits;33;France;2982;0.0;0.0;0.0;1.0;3.0;0.0;1.0;1.0;1.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;2.0
+167;rider/anthony-turgis;121;Cofidis, Solutions Crédits;24;France;2982;0.0;0.0;0.0;1.0;1.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0
+168;rider/guillaume-martin;541;Wanty - Groupe Gobert;25;France;2987;1.0;0.0;0.0;1.0;1.0;0.0;3.0;1.0;0.0;0.0;0.0;0.0;0.0;2.0;1.0;1.0;0.0;3.0;1.0
+169;rider/thomas-degand;136;Wanty - Groupe Gobert;32;Belgium;2987;0.0;0.0;1.0;1.0;2.0;0.0;0.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0
+170;rider/timothy-dupont;829;Wanty - Groupe Gobert;31;Belgium;2987;4.0;8.0;9.0;6.0;3.0;1.0;1.0;1.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;20.0
+171;rider/marco-minnaard;71;Wanty - Groupe Gobert;29;Netherlands;2987;0.0;0.0;0.0;0.0;0.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+172;rider/yoann-offredo;66;Wanty - Groupe Gobert;32;France;2987;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+173;rider/andrea-pasqualon;815;Wanty - Groupe Gobert;30;Italy;2987;2.0;3.0;0.0;1.0;5.0;2.0;3.0;1.0;0.0;2.0;0.0;0.0;0.0;0.0;1.0;1.0;0.0;0.0;32.0
+174;rider/dion-smith;351;Wanty - Groupe Gobert;25;New Zealand;2987;0.0;2.0;0.0;1.0;1.0;1.0;0.0;2.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;5.0
+175;rider/guillaume-van-keirsbulck;178;Wanty - Groupe Gobert;27;Belgium;2987;0.0;0.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
