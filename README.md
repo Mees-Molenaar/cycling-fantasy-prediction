@@ -27,5 +27,6 @@ Steps taken in this project:
 * [Matplotlib](https://matplotlib.org/), which is used to visualize and analyse the data. (version 3.2.2)
 
 ## Data
+The images with the accompanied information can be found on Kaggle via [this link](www.kaggle.com/dataset/a72a6c40e1c0949a248414af11a01214258d8e6229362ca1710be9b87df2c17c).
 
-Data ga ik uploaden op kaggle
+The created features for each year of results are found in the features folder.
