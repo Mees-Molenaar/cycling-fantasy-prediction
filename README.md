@@ -6,6 +6,7 @@ Using machine learning to predict the top performers at the Tour de France.
 * [Introduction](#Introduction)
 * [Technologies](#Technologies)
 * [Data](#Data)
+* [Tasks](#Tasks)
 
 ## Introduction
 
@@ -30,3 +31,8 @@ Steps taken in this project:
 The images with the accompanied information can be found on Kaggle via [this link](www.kaggle.com/dataset/a72a6c40e1c0949a248414af11a01214258d8e6229362ca1710be9b87df2c17c).
 
 The created features for each year of results are found in the features folder.
+
+## Tasks
+
+* Retrieving data 2020
+* Adding Numpy Docstings
