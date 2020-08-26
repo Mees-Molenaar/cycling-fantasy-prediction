@@ -13,9 +13,9 @@ Every year, I compete in a cycling fantasy league for the legendary Tour de Fran
 
 Steps taken in this project:
 * Web scraping to acquire the data
-* Filling missing data with image classification using a ResNet artificial neural network
-* Engineering features
-* Training and using a machine learning model
+* Filling missing data with image classification using a ResNet artificial neural network. In folder: *profile_classification*
+* Engineering features. In notebook: *create_features.ipynb*
+* Training and using a machine learning model. In notebook: *xgboost_wielerpoule.ipynb*
 
 ## Technologies
 
