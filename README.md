@@ -34,5 +34,5 @@ The created features for each year of results are found in the features folder.
 
 ## Improvements
 Possible improvements for next year.
-* Add in weather
+* Add in weather information
 * Only use race results before the tour starts.
